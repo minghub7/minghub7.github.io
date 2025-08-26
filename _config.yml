@@ -59,6 +59,11 @@ dribbble_url:
 # Google Analytics Tracking ID goes here:
 google_analytics:
 
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+
 # The following settings are NECESSARY for the Prologue theme to run:
-theme: jekyll-theme-prologue
+remote_theme: chrisbobbe/jekyll-theme-prologue
 collections: [sections]
