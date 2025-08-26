@@ -62,7 +62,6 @@ google_analytics:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-remote-theme
 
 
 # The following settings are NECESSARY for the Prologue theme to run:
